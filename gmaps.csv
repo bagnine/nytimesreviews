@@ -1,0 +1,366 @@
+,status,address,name,place_id
+0,OPERATIONAL,"367 7th Ave, Brooklyn, NY 11215, United States",WINNER,ChIJg8UZJyNbwokR0-LkfR8MPJQ
+1,OPERATIONAL,"112 Harrison Pl, Brooklyn, NY 11237, United States",Falansai,ChIJc11gFQJcwokRcOejfRbBPpo
+2,OPERATIONAL,"8504 3rd Ave, Brooklyn, NY 11209, United States",Ayat,ChIJBSKRV89PwokRcofsyKk26CM
+3,OPERATIONAL,"1437 1st Avenue Store 1, New York, NY 10021, United States",BILAO,ChIJierqy1ZZwokR9eCcG1n0hXU
+4,OPERATIONAL,"20 Cornelia St, New York, NY 10014, United States",Silver Apricot,ChIJMZwTwIZZwokRbGe13N3omtU
+5,OPERATIONAL,"109 St Marks Pl, New York, NY 10009, United States",Mokyo,ChIJHxQBcypZwokR7-D3oe4V6Go
+6,OPERATIONAL,"76-21 Woodside Ave, Queens, NY 11373, United States",Pata Paplean,ChIJNUjb4RhfwokRZ7BlfpHsF3Q
+7,OPERATIONAL,"65 Kent Ave, Brooklyn, NY 11249, United States",Kokomo,ChIJ9-EhOXlZwokRSdB_B9mYM30
+8,OPERATIONAL,"500 Prospect Pl, Brooklyn, NY 11238, United States",Rangoon,ChIJPVpAZZFbwokR0ZVG6GK19nM
+9,OPERATIONAL,"178 Broadway, Brooklyn, NY 11211, United States",Peter Luger Steak House,ChIJR_bK295bwokR8gM6QgEdmkY
+10,OPERATIONAL,"123 Nassau St, New York, NY 10038, United States","The Beekman, a Thompson Hotel",ChIJq6r-exhawokRKgBzzPkn57U
+11,OPERATIONAL,"41 W 42nd St, New York, NY 10036, United States",Gabriel Kreuther,ChIJw_TGEwBZwokR-zLts543O-4
+12,OPERATIONAL,"17 W 20th St, New York, NY 10011, United States",odo,ChIJlRDB34FZwokRUVAP-qsAoUY
+13,OPERATIONAL,"150 Water St, New York, NY 10005, United States",The Best Of New York Food,ChIJr_Bahj1awokRRVZwNhuvtSs
+14,OPERATIONAL,"75 St Marks Ave, Brooklyn, NY 11217, United States",Sofreh,ChIJK9DnCNlbwokR499xR5NXZII
+15,OPERATIONAL,"599 Johnson Ave, Brooklyn, NY 11237, United States",Mission,ChIJQwWBd3NfwokRv9bSxdUttXY
+16,CLOSED_PERMANENTLY,"90 Wythe Ave, Brooklyn, NY 11249, United States",Frej,ChIJzXBUSV1ZwokR9hxlX-kCvk8
+17,OPERATIONAL,"79715 CA-111, La Quinta, CA 92253, United States",BevMo!,ChIJGxzItlX42oARRBMp8C7t1QY
+18,OPERATIONAL,"124 Bedford Ave, Brooklyn, NY 11211, United States",Allswell,ChIJa7Bx-1xZwokRLAsf1yepN3Y
+19,OPERATIONAL,"123 W 56th St, New York, NY 10019, United States",Indian Accent,ChIJ5zM53_lYwokREUcpQkveG1w
+20,OPERATIONAL,"69 Leonard St, New York, NY 10013, United States",Shoji at 69 Leonard Street,ChIJnbEEPiBawokRN3BGCWpw2nE
+21,CLOSED_PERMANENTLY,"391 6th Ave, New York, NY 10014, United States",Onegin,ChIJfTa2r5ZZwokRovMXB0zmFR8
+22,CLOSED_PERMANENTLY,"137 Rivington St, New York, NY 10002, United States",Pok Pok Phat Thai,ChIJx8sGD4FZwokRisnXoX4l58A
+23,CLOSED_PERMANENTLY,"30 W 53rd St, New York, NY 10019, United States",Chevalier,ChIJZfTHY_lYwokRLtaqCCzLyNk
+24,CLOSED_PERMANENTLY,"218 Bowery, New York, NY 10012, United States",Rebelle,ChIJ2y3ACYZZwokRYIlh686SWnA
+25,CLOSED_PERMANENTLY,"413 E 12th St, New York, NY 10009, United States",Zadie's Oyster Room,ChIJgWZ8A3ZZwokRQim6p1O7WRo
+26,OPERATIONAL,"200 5th Ave, New York, NY 10010, United States",Eataly NYC Flatiron,ChIJaeKcEaRZwokRcllXm5cM7J0
+27,OPERATIONAL,"4th Floor Time Warner Center, 10 Columbus Cir, New York, 10019, United States",Per Se,ChIJp3PsL_ZYwokRZYqs_40RJF4
+28,CLOSED_PERMANENTLY,"1578 1st Avenue, New York, NY 10028, United States",Grünauer Bistro,ChIJu5sldLlYwokRSxvudkcXY9M
+29,OPERATIONAL,"1314 7th St, Santa Monica, CA 90401, United States",Cassia,ChIJ5Zhalc6kwoARtLmpjVXdKy8
+30,OPERATIONAL,"99 Gansevoort St, New York, NY 10014, United States",Whitney Museum of American Art,ChIJN3MJ6pRYwokRiXg91flSP8Y
+31,OPERATIONAL,"33 Carmine St, New York, NY 10014, United States",Nami Nori,ChIJcfbyqFNZwokRUoBP92II4c0
+32,OPERATIONAL,"50 Withers St, Brooklyn, NY 11211, United States",Llama Inn,ChIJD6vUMlpZwokRSFeGSBW_gvU
+33,OPERATIONAL,"105 Christopher St, New York, NY 10014, United States",I Sodi,ChIJK2mBYJNZwokRIT4oANQ6OFY
+34,OPERATIONAL,"60 W 55th St, New York, NY 10019, United States",Benoit New York,ChIJ397qiflYwokRx2AOUyRXMMo
+35,CLOSED_TEMPORARILY,"401 W 24th St, New York, NY 10011, United States",El Quinto Pino,ChIJBebE-blZwokRPAicjsiyGRE
+36,OPERATIONAL,"47 E Houston St 1st floor, New York, NY 10012, United States",Estela,ChIJf3f-f4VZwokRcBCEciTOGRQ
+37,CLOSED_TEMPORARILY,"55 W 19th St, New York, NY 10011, United States",Hwaban,ChIJVVV5OaNZwokRB_2PdjeV5uE
+38,OPERATIONAL,"43-15 Crescent St, Long Island City, NY 11101, United States",M. Wells,ChIJGQFa8SlZwokRjkygUnetCuc
+39,OPERATIONAL,"344 W 11th St, New York, NY 10014, United States",Wallsé,ChIJG3s3FOtZwokR_4_2VL14m0Q
+40,OPERATIONAL,"234 Spring St, New York, NY 10013, United States",Altro Paradiso,ChIJm3rL5YxZwokRWk_MgQ_fuAk
+41,CLOSED_TEMPORARILY,"90 Calyer St, Brooklyn, NY 11222, United States",Chez Ma Tante,ChIJe94ViUFZwokRTJ3cQOMhFdI
+42,OPERATIONAL,"567 Union Ave, Brooklyn, NY 11211, United States",Lilia,ChIJJXCD6ltZwokRJ_cwjKQH63c
+43,CLOSED_PERMANENTLY,"1167 Madison Ave, New York, NY 10028, United States",Morini,ChIJl93fWr1YwokRIyY720b3lfU
+44,CLOSED_PERMANENTLY,"15 W 27th St, New York, NY 10001, United States",Pondicheri,ChIJl69BcqZZwokRmRQ4API_V_E
+45,OPERATIONAL,"119 1st Avenue, New York, NY 10003, United States",Oiji,ChIJ9_VJHp1ZwokRRhe-9rLmBb8
+46,OPERATIONAL,"362 W 53rd St, New York, NY 10019, United States",Yakitori Torishin,ChIJlUslZldYwokRcn6kVUP-9Io
+47,CLOSED_PERMANENTLY,"195 Spring St, New York, NY 10012, United States",Paowalla,ChIJAQDcUIxZwokRfuEzOvFJeF8
+48,OPERATIONAL,"142 Orchard St, New York, NY 10002, United States",Wildair,ChIJfZsx0ClawokRCNMYMdZ_smg
+49,OPERATIONAL,"110 Waverly Pl, New York, NY 10011, United States",Babbo,ChIJ0cr5SZFZwokRqThsmC5Caes
+50,OPERATIONAL,"1968 Coney Island Ave, Brooklyn, NY 11223, United States",Village Cafe,ChIJna0sf-tEwokRYnVW5JRHDnc
+51,OPERATIONAL,"21 W 8th St, New York, NY 10011, United States",Loring Place,ChIJ69NaKJdZwokR3CamunXyYig
+52,OPERATIONAL,"327 Lexington Ave, New York, NY 10016, United States",WOKUNI,ChIJQWyoqwZZwokRbsy5pIm3LRg
+53,OPERATIONAL,"508 Greenwich St, New York, NY 10013, United States",Houseman,ChIJn9skCvNZwokRk7K5S6cBxe0
+54,OPERATIONAL,"325 Bowery, New York, NY 10003, United States",Bar Primi,ChIJSW8U34RZwokR-UhuJkjLDvk
+55,CLOSED_PERMANENTLY,"14 E 60th St, New York, NY 10022, United States",Rotisserie Georgette,ChIJAUorGfBYwokRzWgbplACCGE
+56,CLOSED_TEMPORARILY,"28 W 44th St, New York, NY 10036, United States",Sen Sakana,ChIJEb9X4P9YwokRQHgAN_yR_58
+57,OPERATIONAL,"90 3rd Ave, New York, NY 10003, United States",Han Dynasty,ChIJx3Nrt55ZwokRP3Xiw0TGnKE
+58,OPERATIONAL,"104 Lexington Ave, New York, NY 10016, United States",Sahib,ChIJIaUv1glZwokRy7QlU-DVDYo
+59,OPERATIONAL,"155 E 52nd St, New York, NY 10022, United States",Nippon,ChIJ88QfReNYwokRDwlvNwkIFVQ
+60,OPERATIONAL,"85 Avenue A, New York, NY 10009, United States",Somtum Der,ChIJY_1BtoJZwokR-sB-pdEPW44
+61,CLOSED_PERMANENTLY,"5 Beekman St, New York, NY 10038, United States",Augustine,ChIJv1z7exhawokRDZctDiN6D8o
+62,OPERATIONAL,"145 W Broadway, New York, NY 10013, United States",The Odeon,ChIJS-u0mB9awokRZ7H0sa9Oy-U
+63,OPERATIONAL,"55 Bond St, New York, NY 10012, United States",Fish Cheeks,ChIJgc7fPIVZwokRQMnqTxTf_Qk
+64,OPERATIONAL,"401 6th Ave, New York, NY 10014, United States",Hao Noodle,ChIJzc-sGvpZwokRvu4gXtUoejs
+65,CLOSED_TEMPORARILY,"23 Lexington Ave, New York, NY 10010, United States",Simon & The Whale,ChIJRy3WuaBZwokR5N2nQH6vFLE
+66,CLOSED_PERMANENTLY,"835 6th Ave, New York, NY 10001, United States",Lupulo,ChIJTwvOQq9ZwokRCX6BOSPicKs
+67,CLOSED_PERMANENTLY,"94 E 7th St, New York, NY 10009, United States",Kyo Ya,ChIJATRXJJ1ZwokRHeym7v0u5qI
+68,CLOSED_PERMANENTLY,"115 Columbia St, Brooklyn, NY 11201, United States",Carla Hall’s Southern Kitchen,ChIJ6YSZpVxawokRgz2RVcrWkMk
+69,OPERATIONAL,"328 Douglass St, Brooklyn, NY 11217, United States",Insa,ChIJo-EvNqtbwokRjZnXUY-cyCk
+70,OPERATIONAL,"18-24 College Point Blvd, College Point, NY 11356, United States",Little Pepper,ChIJ1ec4s1P1wokRUK_74W1Q0q0
+71,CLOSED_TEMPORARILY,"19 W 24th St, New York, NY 10010, United States",Trattoria Italienne,ChIJRaIKR6RZwokRWhESHR7HmOY
+72,OPERATIONAL,"65 E 55th St, New York, NY 10022, United States",Aquavit,ChIJWfonJ_tYwokRwIGb6Im403E
+73,OPERATIONAL,"119 E 18th St, New York, NY 10003, United States",Javelina,ChIJQYXk6aFZwokR4HgRvh-uhek
+74,OPERATIONAL,"35 E 18th St, New York, NY 10003, United States",ABC Kitchen,ChIJSXmIIqJZwokRIhhDroV3qX8
+75,CLOSED_TEMPORARILY,"54 E 1st St, New York, NY 10003, United States",Prune,ChIJBe5lh4RZwokRBkl8OgpQsZI
+76,OPERATIONAL,"338 Hamilton Ave, Brooklyn, NY 11231, United States",Pizza Moto,ChIJOyYrUB9bwokRd1HS3v6EkD4
+77,OPERATIONAL,"7 E 27th St, New York, NY 10016, United States",Benno Restaurant,ChIJW1hwqPtZwokRZkpVIP-dwW8
+78,OPERATIONAL,"43 E 28th St, New York, NY 10016, United States",Atoboy,ChIJZ-xpvadZwokRGVsoX2gW38s
+79,OPERATIONAL,"42 E Broadway, New York, NY 10002, United States",Hwa Yuan Szechuan 華園,ChIJDS02PiZawokRUHmiu65dXy0
+80,CLOSED_PERMANENTLY,"178 Stanton St, New York, NY 10002, United States",Lowlife,ChIJixMn8YFZwokRit2t9qjj9yo
+81,OPERATIONAL,"2321 Hughes Ave, The Bronx, NY 10458, United States",Çka Ka Qellu,ChIJddi0Qof0wokRQGSTDJMZzHc
+82,CLOSED_PERMANENTLY,"100 E 63rd St, New York, NY 10065, United States",Vaucluse,ChIJPwGYBO9YwokRwePwcVC3xVo
+83,OPERATIONAL,"264 Clinton St, Brooklyn, NY 11201, United States",Saint Julivert,ChIJC_-pxFdbwokRuPw-9HZucGA
+84,CLOSED_TEMPORARILY,"24 E 39th St, New York, NY 10016, United States",The Shakespeare,ChIJI7jw2ABZwokR_N3wkrCRL0A
+85,OPERATIONAL,"138 Orchard St, New York, NY 10002, United States",Contra,ChIJT1joy4ZZwokRQOu1I_pG85Q
+86,OPERATIONAL,"30 E 20th St, New York, NY 10003, United States",Francis & Staub- La Rotisserie,ChIJbSqiKqJZwokRoXkYlEwyb8Y
+87,OPERATIONAL,"372 Lafayette St, New York, NY 10012, United States",ATLA,ChIJLSOKsppZwokR_j81qK3aPsM
+88,CLOSED_PERMANENTLY,"641 Hudson St, New York, NY 10014, United States",Gunter Seeger NY,ChIJw2R55b9ZwokRACCH6kNRgMU
+89,OPERATIONAL,"659 Vanderbilt Ave, Brooklyn, NY 11238, United States",Olmsted,ChIJ_dqqUKZbwokRAFWuNg_IkAs
+90,OPERATIONAL,"185 Sullivan St, New York, NY 10012, United States",MIMI,ChIJQW1zApJZwokRetpvKUNgkk8
+91,CLOSED_PERMANENTLY,"285 Nevins St, Brooklyn, NY 11217, United States",Freek's Mill,ChIJC6qiT1RawokRVuGnHYgPVyQ
+92,OPERATIONAL,"47 E 12th St, New York, NY 10003, United States",Shuko,ChIJe8WrB5lZwokREBs3DZYJyKc
+93,CLOSED_PERMANENTLY,"162 Orchard St, New York, NY 10002, United States",Wassail,ChIJFQ6hVoFZwokRKJVrrZ1reJE
+94,CLOSED_PERMANENTLY,"204 E 13th St, New York, NY 10003, United States",Bruno Pizza,ChIJq2Gt6p5ZwokRAsAatkpvsbQ
+95,CLOSED_PERMANENTLY,"22 E 13th St, New York, NY 10003, United States",All'onda,ChIJmwCqSZhZwokRaIYiccesPxk
+96,OPERATIONAL,"57 W 57th St, New York, NY 10019, United States",Quality Italian,ChIJsTgQqfBYwokRU3iwRQ4U0Hc
+97,OPERATIONAL,"380 Lafayette St, New York, NY 10003, United States",Lafayette Grand Café & Bakery,ChIJBVtTt5pZwokR48CgdYqHma8
+98,CLOSED_PERMANENTLY,"329 Greenwich St, New York, NY 10013, United States",Telepan Local,ChIJLV7vRB5awokRJ9PwpvkNAkI
+99,CLOSED_PERMANENTLY,"85 10th Avenue Entrance on 15th St and, 11th Ave, New York, NY 10011, United States",Toro NYC,ChIJK1j_xcBZwokR1swlgiseyFM
+100,OPERATIONAL,"329 Kent Ave, Brooklyn, NY 11249, United States",Misi,ChIJw7SsU_pZwokREyGSSulF53U
+101,CLOSED_TEMPORARILY,"34 E 20th St, New York, NY 10003, United States",Nur,ChIJ5-VqgKFZwokR7_6eCK4IsUI
+102,OPERATIONAL,"21E E 16th St, New York, NY 10003, United States",Tsurutontan Udon Noodle Brasserie,ChIJ-SIzeqJZwokRcTLUzrb8Xd8
+103,OPERATIONAL,"22 Orchard St, New York, NY 10002, United States",FunGTU,ChIJmz2PtilawokRLesoFstDj_o
+104,OPERATIONAL,"5 King St, New York, NY 10012, United States",Charlie Bird,ChIJe_ZBhY1ZwokRGAEwGLWYpA8
+105,OPERATIONAL,"16 W 22nd St, New York, NY 10010, United States",COTE Korean Steakhouse,ChIJQ1R3hKNZwokRQM4wbIrc00o
+106,OPERATIONAL,"28 Liberty St 60th floor, New York, NY 10005, United States",Manhatta,ChIJoTXWl8dbwokRpKA2BJFVsGA
+107,CLOSED_PERMANENTLY,"3 Bryant Park, New York, NY 10036, United States",DaDong,ChIJVQck0KpZwokRh_uOtmlngzs
+108,CLOSED_TEMPORARILY,"5 Doyers St, New York, NY 10013, United States",Chinese Tuxedo,ChIJyW-u9iZawokRY1sHXGzZHGI
+109,OPERATIONAL,"43 Canal St, New York, NY 10002, United States",Cervo's,ChIJp_UkrilawokRtDAS5sls7jo
+110,CLOSED_PERMANENTLY,"412 Court St, Brooklyn, NY 11231, United States",Dover,ChIJHZHe_q9cwokRLp3Yjj3BjxM
+111,CLOSED_PERMANENTLY,"177 Chrystie St, New York, NY 10002, United States",Le Turtle,ChIJxd843idawokR2mDNq7VpvLM
+112,CLOSED_TEMPORARILY,"945 Madison Ave, New York, NY 10021, United States",Flora Bar,ChIJe3cd65RYwokROvf-dv8RxTU
+113,OPERATIONAL,"99 Church St, New York, NY 10007, United States",CUT by Wolfgang Puck,ChIJ87qt5hhawokRfDHmVxCxPJY
+114,OPERATIONAL,"187 Mulberry St, New York, NY 10012, United States",Pasquale Jones,ChIJk-Ggw4hZwokRFn8ZTN9E2RI
+115,CLOSED_TEMPORARILY,"AKA Tribeca, 85 W Broadway, New York, NY 10007, United States",Little Park,ChIJUZ62Jh9awokRtnvnQpPF3rY
+116,CLOSED_PERMANENTLY,"13 Barrow St, New York, NY 10014, United States",Annisa,ChIJcT1-jpNZwokREm_ls2oe4Kw
+117,CLOSED_TEMPORARILY,"298 Bedford Ave, Brooklyn, NY 11249, United States",Maison Premiere,ChIJW_WGT2BZwokRNpvZ4k3lVcs
+118,OPERATIONAL,"274 Lenox Ave at, W 124th St, New York, 10027, United States",Chaiwali,ChIJQ9rXCw32wokRiJqw61w8nys
+119,OPERATIONAL,"180 West St, Brooklyn, NY 11222, United States",Achilles Heel,ChIJfelAXhVZwokRphnsZ_Or_o8
+120,OPERATIONAL,"6015 Main St, Queens, NY 11367, United States",Lake Pavilion,ChIJeXfVUG9gwokRC75WD1fPQAM
+121,CLOSED_PERMANENTLY,"41 W 57th St, New York, NY 10019, United States",Betony,ChIJqwPcpvBYwokRIaJmBY0yS6Q
+122,OPERATIONAL,"18 King St, New York, NY 10014, United States",King,ChIJmy2pnY1ZwokRvWDMouRmdl4
+123,CLOSED_PERMANENTLY,"31 W 21st St, New York, NY 10010, United States",Bouley at Home,ChIJC0SVqR9awokRjAPTlk8pUb0
+124,CLOSED_PERMANENTLY,"7 Cornelia St, New York, NY 10014, United States",Chomp Chomp,ChIJ_9IawpNZwokR-Y2UoFaHfH4
+125,OPERATIONAL,"1 Water St, Brooklyn, NY 11201, USA",The River Café,ChIJ2QZOdTpawokRU_eN_EPJaX8
+126,CLOSED_PERMANENTLY,"155 Bleecker St, New York, NY 10012, United States",Pig Bleecker,ChIJ04n87pFZwokRMA7fkUoKVYU
+127,CLOSED_TEMPORARILY,"10 Columbus Cir Level 3, New York, NY 10019, United States",Bluebird London NYC,ChIJ144lJvZYwokR7YOrbNvt0fA
+128,OPERATIONAL,"284 3rd Ave, Brooklyn, NY 11215, United States",Claro,ChIJGVQqnFVawokRltzLtx5fMhM
+129,OPERATIONAL,"407 Smith St, Brooklyn, NY 11231, United States",Ugly Baby,ChIJ7RSHClhawokR-m8p8Ny_vR8
+130,CLOSED_PERMANENTLY,"430 Hudson St, New York, NY 10014, United States",Piora,ChIJ68STMu1ZwokRZE3E0KQLG28
+131,OPERATIONAL,"403 E 12th St, New York, NY 10009, United States",Hearth,ChIJQTZ0-Z1ZwokRhl9v1FaVF0A
+132,CLOSED_PERMANENTLY,"540 Lexington Ave, New York, NY 10022, United States",La Chine,ChIJA1lP4PxYwokRoktXMuwyk4M
+133,OPERATIONAL,"3226 11th St NW, Washington, DC 20010, United States",Bad Saint,ChIJbdq0pR7It4kRIHzjG70zNNY
+134,CLOSED_PERMANENTLY,"905 Lorimer St, Brooklyn, NY 11222, United States",Sauvage,ChIJA2xoX0RZwokRArji74tmpPA
+135,OPERATIONAL,"637 Hudson St, New York, NY 10014, United States",High Street on Hudson,ChIJke-X5L9ZwokRvFn8bmeiNBs
+136,CLOSED_PERMANENTLY,"232 8th Ave, New York, NY 10011, United States",Momofuku Nishi,ChIJmdj4ubtZwokRmpmizdHJSug
+137,CLOSED_TEMPORARILY,"820 Washington St, New York, NY 10014, United States",Santina,ChIJ0184O8BZwokRn7Xj3YHRnGs
+138,CLOSED_PERMANENTLY,"275 Van Brunt St, Brooklyn, NY 11231, United States",Grindhaus,ChIJJxrabYpawokR59yM90Vv8Vg
+139,CLOSED_PERMANENTLY,"100 Stanton St, New York, NY 10002, United States",El Rey,ChIJofea4oNZwokR7cu_MTJ81hc
+140,OPERATIONAL,"220 W 44th St, New York, NY 10036, United States",Guy's American Kitchen & Bar,ChIJBchM8lRYwokR83UBliu4AGc
+141,OPERATIONAL,"333 Douglass St, Brooklyn, NY 11217, United States",Meat Hook Burger Shop,ChIJ1a56FCpbwokRirUoOCtnp8s
+142,OPERATIONAL,"206 W 118th St, New York, NY 10026, United States",Minton's Playhouse,ChIJ38jfXRH2wokR3ZewiTRd9oU
+143,OPERATIONAL,"9 E 1st St, New York, NY 10003, United States",Bowery Meat Company,ChIJn8fJ_YRZwokRYiSB8y4Qneg
+144,CLOSED_PERMANENTLY,"104 North End Ave, New York, NY 10282, United States",North End Grill,ChIJIYYYZRtawokRgM_cAp5TUbk
+145,CLOSED_PERMANENTLY,"172 Orchard St, New York, NY 10002, United States",Mission Cantina,ChIJ4YU4_INZwokRQHiBwj-zVhE
+146,CLOSED_PERMANENTLY,"348 Flatbush Ave, Brooklyn, NY 11238, United States",Marco's,ChIJw6WTkRJbwokRhbD_v3pgu5c
+147,CLOSED_TEMPORARILY,"81 W Broadway, New York, NY 10007, United States",Le Pain Quotidien,ChIJU0lt1x5awokRcd1w1u4Ju9Q
+148,OPERATIONAL,"108 E 4th St, New York, NY 10003, United States",Soogil,ChIJgzeCUpxZwokRbd_EmbP7osI
+149,CLOSED_PERMANENTLY,"206 Spring St, New York, NY 10012, United States",Costata,ChIJNefSV4xZwokRBFVvXhX3LUg
+150,CLOSED_PERMANENTLY,"31-29 Ditmars Blvd, Astoria, NY 11105, United States",MP Taverna Astoria,ChIJOyA4tWdfwokRO_vKNi-dXds
+151,CLOSED_PERMANENTLY,"7 Spring St, New York, NY 10012, United States",Uncle Boons,ChIJ5dgFHIZZwokRlGU38pcvZdU
+152,OPERATIONAL,"2017 Emmons Ave, Brooklyn, NY 11235, United States",Randazzo's Clam Bar,ChIJU-MJFmVEwokRAbOSlHM0eRI
+153,CLOSED_PERMANENTLY,"260 W 42nd St, New York, NY 10036, United States",Señor Frog's New York,ChIJHd9IRVNYwokRCaULps4Dka4
+154,OPERATIONAL,"400 Roland Way, Oakland, CA 94621, United States",Teamsters Local 70,ChIJ70VfwriFj4ARzMOp3dH2BKo
+155,OPERATIONAL,"125 E 7th St, New York, NY 10009, United States",Ruffian,ChIJHfvtRp1ZwokREpFE8Z1BEKs
+156,CLOSED_PERMANENTLY,"72 University Pl, New York, NY 10003, United States",Nix,ChIJc2UmwplZwokRnVgJO0ZwL20
+157,OPERATIONAL,"61 Delancey St, New York, NY 10002, United States",Shabu Shabu Macoron,ChIJkUiaHYdZwokRxu1x0gDi8GE
+158,OPERATIONAL,"215 Chrystie St, New York, NY 10002, United States",Public Kitchen,ChIJYXGbtYVZwokRLnwSXk9574Q
+159,OPERATIONAL,"289 Bleecker St, New York, NY 10014, United States",The Loyal,ChIJ9YIin5NZwokRIZi7KsM-z9c
+160,OPERATIONAL,"25 Cooper Sq, New York, NY 10003, United States",Narcissa,ChIJX2F4PZtZwokRnulJN3r_oLU
+161,OPERATIONAL,"5-48 49th Ave, Long Island City, NY 11101, United States",Casa Enrique,ChIJv4bbdSNZwokRCgKfDGF8az8
+162,OPERATIONAL,"374 Johnson Ave, Brooklyn, NY 11206, United States",ICHIRAN Ramen NY Brooklyn,ChIJDwxnNABcwokRnRmtxisbW-Y
+163,OPERATIONAL,"103 Greenwich Ave, New York, NY 10014, United States",Don Angie,ChIJfxC19JVZwokRX2uKgQAL17c
+164,OPERATIONAL,"85 10th Ave, New York, NY 10011, United States",L'Atelier de Joël Robuchon,ChIJv6P8ucBZwokR844xvp6qPVQ
+165,OPERATIONAL,"160 Prince St, New York, NY 10012, United States",Coco Pazzo,ChIJU1x4zo1ZwokRMtgXwL9pIZQ
+166,OPERATIONAL,"42 E 20th St, New York, NY 10003, United States",Gramercy Tavern,ChIJvSQIgqFZwokRFYQbJdzceSs
+167,OPERATIONAL,"849 6th Ave, New York, NY 10001, United States",L'Amico,ChIJqyVsRq9ZwokRukmFQg8jzvg
+168,OPERATIONAL,"110 1st Avenue, New York, NY 10009, United States",Sushi Dojo,ChIJeaXCJp1ZwokRL8asiigH-UM
+169,CLOSED_PERMANENTLY,"160 N 12th St, Brooklyn, NY 11249, United States",The Elm,ChIJq7ijyFxZwokRHmhIYot48d0
+170,OPERATIONAL,"679 Greenwich St, New York, NY 10014, United States",Jeju Noodle Bar,ChIJvSw_uuxZwokRwESVzh5G33s
+171,OPERATIONAL,"52 Irving Pl, New York, NY 10003, United States",Casa Mono,ChIJUd1sYJ9ZwokRRkqniQdJ144
+172,OPERATIONAL,"112 1st Avenue, New York, NY 10009, United States",Hunan Slurp,ChIJ__-7Jp1ZwokRqMtG8dflABo
+173,OPERATIONAL,"285 W 12th St, New York, NY 10014, United States",The Beatrice Inn,ChIJy0l_epVZwokR4tN_s6EzlWY
+174,CLOSED_TEMPORARILY,"138 Lafayette St, New York, NY 10013, United States",Le Coucou,ChIJyw5j84lZwokRnUI_UknPSNA
+175,OPERATIONAL,"135-58 Lefferts Blvd, South Ozone Park, NY 11420, United States",Don Peppe,ChIJ4Vgyn2tnwokRi3vnVvaHfv8
+176,OPERATIONAL,"27 E 3rd St, New York, NY 10003, United States",La Sirena Mexican folk Art,ChIJo_S4t4RZwokRYC407Iz2aU8
+177,CLOSED_PERMANENTLY,"510 6th Ave, New York, NY 10011, United States",Pasta Flyer,ChIJ3fmN2pdZwokRfycUYjWUQ8c
+178,CLOSED_PERMANENTLY,"19 W 31st St, New York, NY 10001, United States",Henry at Life Hotel,ChIJdXXRJq9ZwokRKj5UWjI76sk
+179,CLOSED_TEMPORARILY,"151 E Broadway, New York, NY 10002, United States",Kopitiam,ChIJCSo-rSlawokRXSVW0IKZ3vQ
+180,CLOSED_TEMPORARILY,"261 Moore St, Brooklyn, NY 11206, United States",Blanca,ChIJrSjk6QBcwokRJ12Xetu0rX4
+181,OPERATIONAL,"101 E 19th St, New York, NY 10003, United States",Union Square Cafe,ChIJxTHke6JZwokRCLWVd99eDBw
+182,OPERATIONAL,"31-31 Thomson Ave, Queens, NY 11101, United States",Adda Indian Canteen,ChIJI8fjpfdfwokRkAjC4Pswtys
+183,OPERATIONAL,"455 Madison Ave, New York, NY 10022, United States",VILLARD,ChIJf7nNZfxYwokRS5iRY5ywSOk
+184,CLOSED_TEMPORARILY,"207 2nd Ave, New York, NY 10003, United States",Momofuku 207,ChIJkXQ3_INZwokRbCMEByaQ_VE
+185,CLOSED_TEMPORARILY,"1209 Jackson Ave, Long Island City, NY 11101, United States",Mu Ramen,ChIJV53wRSNZwokR0vx_FanKKqI
+186,OPERATIONAL,"242 Columbus Ave, San Francisco, CA 94133, United States",Tosca Cafe,ChIJ2xNJivSAhYARhivCKSIaZCY
+187,OPERATIONAL,"60 E 65th St, New York, NY 10065, United States",Daniel,ChIJ09ZGju5YwokRXOcNC23JRwk
+188,OPERATIONAL,"38 E 19th St, New York, NY 10003, United States",abcV,ChIJxXrbJaJZwokRAAEnPk3AJh4
+189,OPERATIONAL,"39-16 Prince St G01, Queens, NY 11354, United States",Guan Fu,ChIJT63aZg5gwokRZkjpgZKKXb4
+190,OPERATIONAL,"5 Madison Ave, New York, NY 10010, United States",The Clocktower,ChIJe_H4tKZZwokRIKL-M0_luB0
+191,OPERATIONAL,"104 E 30th St, New York, NY 10016, United States",ATOMIX,ChIJ3bmAHghZwokRRXYO57yLuss
+192,OPERATIONAL,"116 Forsyth St, New York, NY 10002, United States",Gem,ChIJO4qLq4dZwokRV1ftotNG1fU
+193,CLOSED_PERMANENTLY,"177 1st Avenue, New York, NY 10003, United States",Little Tong Noodle Shop,ChIJiWrQ6p1ZwokRHf-oMAoxTLQ
+194,OPERATIONAL,"W 67th St, New York, NY 10023, United States",Tavern On the Green,ChIJKy5pv_RYwokRBaqWbokKqOc
+195,CLOSED_TEMPORARILY,"510 Madison Ave, New York, NY 10022, United States",Empellon,ChIJ8b70m_tYwokRqGwQgnijLEc
+196,CLOSED_PERMANENTLY,"8 W 28th St, New York, NY 10001, United States",Made Nice,ChIJq3xoDaZZwokR73rTqeguT3Y
+197,CLOSED_PERMANENTLY,"86 Bedford St, New York, NY 10014, United States",Chumley's,ChIJsaQoPpNZwokRCPoWaKLj0Mg
+198,OPERATIONAL,"125 W 55th St, New York, NY 10019, United States",Estiatorio Milos,ChIJbRaexvlYwokRYc5RgUjlsIY
+199,OPERATIONAL,"241 W Broadway, New York, NY 10013, United States",Frenchette,ChIJu7pIuopZwokRvIsndYhPg4U
+200,OPERATIONAL,"47 S 5th St, Brooklyn, NY 11249, United States",Aska,ChIJUwatTl1ZwokRUDXxYoFa-hk
+201,OPERATIONAL,"89 South St, New York, NY 10038, United States",The Fulton,ChIJaXwp6UBbwokR1Ki9x6-BIug
+202,OPERATIONAL,"157 Duane St, New York, NY 10013, United States",Khe-Yo,ChIJb6jHpx9awokRj6rvb31V6WM
+203,CLOSED_TEMPORARILY,"80 Wythe Ave, Brooklyn, NY 11249, United States",Le Crocodile,ChIJ4faAXmBZwokRebmpx9kQxx4
+204,CLOSED_PERMANENTLY,"664 Manhattan Ave, Brooklyn, NY 11222, United States",Cherry Point,ChIJD0dsNkRZwokRtq5bPEJA5o4
+205,CLOSED_TEMPORARILY,"10 Columbus Cir #301, New York, NY 10019, United States",Bāng Bar,ChIJG-0gOVNZwokRVLu7o8Shq_Q
+206,OPERATIONAL,"53 Howard St, New York, NY 10013, United States",La Mercerie,ChIJ22wiSIpZwokRUmlXovJnWDI
+207,OPERATIONAL,"275 Grove St, Jersey City, NJ 07302, United States",Razza,ChIJFSRtpLFQwokROP1exas0wNM
+208,OPERATIONAL,"976 Hempstead Turnpike, Franklin Square, NY 11010, United States",Sammy's Halal,ChIJsQKMwyFjwokR9f95FaIe2b8
+209,OPERATIONAL,"329 Van Brunt St, Brooklyn, NY 11231, United States",Red Hook Tavern,ChIJv0LelZRbwokRrUvqWn_7o98
+210,CLOSED_TEMPORARILY,"517 W 38th St, New York, NY 10018, United States",Legacy Records,ChIJA4Iy0kxYwokR88K8Cx7Bd-Q
+211,OPERATIONAL,"186 Union St, Providence, RI 02903, United States",Oberlin,ChIJDezthRNF5IkRDS9ci1WbOqY
+212,CLOSED_TEMPORARILY,"89 E 42nd St, New York, NY 10017, United States",Agern,ChIJLVaKiQFZwokRDnsQs34z6MY
+213,CLOSED_PERMANENTLY,"314 W 11th St, New York, NY 10014, United States",The Spotted Pig,ChIJ89yJLetZwokRbzTj3_V2LAE
+214,CLOSED_TEMPORARILY,"430 E 9th St, New York, NY 10009, United States",Superiority Burger,ChIJ26fKep1ZwokRrPzNIqBj4xU
+215,OPERATIONAL,"151 E 82nd St, New York, NY 10028, United States",The Simone,ChIJgYdbzr1YwokRueRDWsZY_8w
+216,OPERATIONAL,"324 Lafayette St, New York, NY 10012, United States",GATO,ChIJiaS2jo9ZwokRLcVlNX7PjTE
+217,CLOSED_TEMPORARILY,"85 4th Ave, New York, NY 10003, United States",Tim Ho Wan,ChIJ8WvaWJlZwokRp1RxTb8QUrE
+218,OPERATIONAL,"57 E 57th St, New York, NY 10022, United States",Four Seasons Hotel New York,ChIJ68J3tfpYwokR2HaRoBcB4xg
+219,OPERATIONAL,"412 W 14th St, New York, NY 10014, United States",INTERSECT BY LEXUS,ChIJY-zRgb9ZwokRyCTJTznEnZA
+220,OPERATIONAL,"1 Central Park West, New York, NY 10023, United States",Nougatine at Jean-Georges,ChIJh5JzbfZYwokRzeF2GgGYd2Y
+221,OPERATIONAL,"263 E Pender St, Vancouver, BC V6A 1T8, Canada",Kissa Tanto,ChIJD8oBSnBxhlQRaX3X1supJ0g
+222,OPERATIONAL,"72 MacDougal St, New York, NY 10012, United States",BABS,ChIJXYThe2ZZwokRC3LdQ2_xE9Y
+223,OPERATIONAL,"2122 NE 65th St, Seattle, WA 98115, United States",JuneBaby,ChIJMbK_k3kUkFQRIWL4yy1N0Go
+224,OPERATIONAL,"99 E 52nd St, New York, NY 10022, United States",THE GRILL,ChIJ8UxZqPxYwokRQSC7-Qoeea0
+225,OPERATIONAL,"1400 2nd Ave, New York, NY 10021, United States",Mission Ceviche - Restaurant & Bar,ChIJEXPLsaFZwokRggZzIVKeiPM
+226,OPERATIONAL,"600 11th Ave, New York, NY 10036, United States",Gotham West Market,ChIJ78IJek5YwokRvVV8rYzRhhw
+227,OPERATIONAL,"121 W 10th St, New York, NY 10011, United States",The Happiest Hour,ChIJZffPjpZZwokRcSNtdgKEbUk
+228,CLOSED_TEMPORARILY,"175 Orchard St, New York, NY 10002, United States",Una Pizza Napoletana,ChIJAbYL-YNZwokRIfs6jgmbXqg
+229,OPERATIONAL,"11 Madison Ave, New York, NY 10010, United States",Eleven Madison Park,ChIJEWbXz6ZZwokRLKmKrtPfVFY
+230,OPERATIONAL,"99 E 52nd St, New York, NY 10022, United States",THE POOL,ChIJ8UxZqPxYwokRh_AzHNdCTZ8
+231,OPERATIONAL,"143 Orchard St, New York, NY 10002, United States",Tsismis NYC,ChIJLzI-10RZwokRhYhMVH2kaD4
+232,OPERATIONAL,"731 Lexington Avenue Located inside, Beacon Ct, New York, NY 10022, United States",Hutong New York,ChIJweMOgwxZwokRm_BlZ1YAiZc
+233,OPERATIONAL,"359 6th Ave, New York, NY 10014, United States",Llama San,ChIJ8youq41ZwokRqnnXghN1DIs
+234,OPERATIONAL,"77-99 Roosevelt Ave, Queens, NY 11372, United States",BIRRIA-LANDIA,ChIJ0wbVyUhfwokRd2iTfd08w34
+235,OPERATIONAL,"178 Townsend St, San Francisco, CA 94107, United States",Saison,ChIJPUo32Aj3MhURXL06eVIEoHc
+236,CLOSED_PERMANENTLY,"80 Columbus Cir, New York, NY 10023, United States",The Aviary NYC,ChIJkxySHfZYwokR3DoJ1rVZw_Q
+237,OPERATIONAL,"12 W 18th St, New York, NY 10011, United States",Taste of Persia NYC,ChIJJys24aJZwokRIUex74NiTTQ
+238,OPERATIONAL,"23 Commerce St, New York, NY 10014, United States",Sushi Nakazawa,ChIJsw80F5NZwokRcDtxajLLOeA
+239,CLOSED_PERMANENTLY,"70 Prince St, New York, NY 10012, United States",Back Forty West,ChIJ4we-F49ZwokRiZ1OAfQKx8Y
+240,OPERATIONAL,"33 E 20th St, New York, NY 10003, United States",SUGARFISH by sushi nozawa,ChIJK_rtfaFZwokRRCOUQwA-A28
+241,OPERATIONAL,"150 Water St, New York, NY 10005, United States",The Best Of New York Food,ChIJr_Bahj1awokRRVZwNhuvtSs
+242,OPERATIONAL,"24 5th Ave, New York, NY 10011, United States",Claudette,ChIJgWo3QZdZwokRD0PBopbkTV0
+243,OPERATIONAL,"111-27 Jamaica Ave, Richmond Hill, NY 11418, United States",Caleta 111,ChIJb1yO2ZdhwokRIWlN1iszze4
+244,CLOSED_PERMANENTLY,"22-25 Jackson Ave, Queens, NY 11101, United States",M. Wells Dinette,ChIJYeUKsChZwokRrDKp87lE02Q
+245,OPERATIONAL,"2363 Adam Clayton Powell Jr Blvd, New York, NY 10030, United States",Belle Harlem,ChIJq6p2S3f2wokRjOhlXzoI6TY
+246,OPERATIONAL,"126 W 18th St, New York, NY 10011, United States",Portale,ChIJ-TuoLitZwokRgQRHmUGEgyY
+247,OPERATIONAL,"570 Hudson St, New York, NY 10014, United States",Anton's,ChIJvdgj3uVZwokRDFVNZGAg43U
+248,OPERATIONAL,"162-23 Depot Rd, Queens, NY 11358, United States",Tong Sam Gyup Goo Yi,ChIJoWa5-i5gwokR8v_bTyLmO6I
+249,CLOSED_TEMPORARILY,"1000 S 8th Ave Suite 5.5 Underground @ the corner of 57th st and, 8th Ave, New York, NY 10019, United States",Bolivian Llama Party,ChIJQWGfMfZYwokRCznIoUYk8Ow
+250,OPERATIONAL,"27 E 20th St, New York, NY 10003, United States",Rezdôra,ChIJDdKSyCVZwokR-9svvc9YDFo
+251,OPERATIONAL,"48 W 8th St, New York, NY 10011, United States",Frevo,ChIJL6-NTmBZwokRGacx3GWq3D0
+252,CLOSED_PERMANENTLY,"812 Grand St, Brooklyn, NY 11211, United States",PASTRAMI MASTERS & WAFA'S EXPRESS,ChIJ66tnulhZwokRzdiTEuDOKFM
+253,OPERATIONAL,"235 Columbus Ave, New York, NY 10023, United States",Parm,ChIJOcB1BotYwokRDAfplGJHyTM
+254,OPERATIONAL,"463 W Broadway, New York, NY 10012, United States",Sadelle's,ChIJP8URcY5ZwokRhFpdfNcK-FI
+255,OPERATIONAL,"150 Water St, New York, NY 10005, United States",The Best Of New York Food,ChIJr_Bahj1awokRRVZwNhuvtSs
+256,CLOSED_TEMPORARILY,"12 E 12th St, New York, NY 10003, United States",Gotham,ChIJZ72FzplZwokRmcA7CQzDMj0
+257,CLOSED_PERMANENTLY,"362 W 53rd St, New York, NY 10019, United States",La Silhouette,ChIJP3YpZldYwokRrfFfE_n0myA
+258,OPERATIONAL,"33 Hudson Yards 24th Floor, New York, NY 10001, United States",Electric Lemon,ChIJIXPGRZtZwokRlob1QzvXcO4
+259,OPERATIONAL,"80 St Marks Pl, New York, NY 10003, United States",Foxface,ChIJBUnbQp5ZwokRtR-5h4uCg-4
+260,OPERATIONAL,"318 W 51st St, New York, NY 10019, United States",UOGASHI,ChIJ03JXKllZwokRdL8HMVY_6A0
+261,OPERATIONAL,"436 Union Ave, Brooklyn, NY 11211, United States",hanon,ChIJR08FXxJZwokR3M9RhACnCoE
+262,OPERATIONAL,"295 Grand St, Brooklyn, NY 11211, United States",The Four Horsemen,ChIJbTCMl19ZwokRUohF137p9cQ
+263,OPERATIONAL,"159 Canal St 2nd floor, New York, NY 10013, United States",Da Long Yi Hot Pot,ChIJeQQqRN5bwokRmEQu2e7srvY
+264,CLOSED_TEMPORARILY,"81-19, Broadway, NY 11373, United States",Thai Cook,ChIJdcuSjVJfwokRZ0w4TUXCA_g
+265,OPERATIONAL,"224 West 4th Street 2nd fl, New York, NY 10014, United States",Crown NYC,ChIJDbltepRZwokRsDGKl4HtzXo
+266,OPERATIONAL,"1414 6th Ave, New York, NY 10019, United States",Jams,ChIJRzLEsfBYwokRHMTMZPqlyu8
+267,OPERATIONAL,"109 Malcolm X Blvd, New York, NY 10026, United States",FIELDTRIP Harlem,ChIJHTUt_L73wokRBkywY68ePoY
+268,OPERATIONAL,"30 W 26th St, New York, NY 10010, United States",Hill Country Barbecue Market,ChIJB2NotqVZwokR1t6v-dk6wVY
+269,OPERATIONAL,"758 Seneca Ave, Ridgewood, NY 11385, United States",While in Kathmandu,ChIJeSf6KiFcwokRh2AC4D8qBts
+270,CLOSED_PERMANENTLY,"461 W 23rd St, New York, NY 10011, United States",Bistro La Promenade,ChIJYe1DLbhZwokR0IrTyvhKu7g
+271,OPERATIONAL,"25 Cooper Sq, New York, NY 10003, United States","The Standard, East Village",ChIJgWmjF5tZwokRiP8Uj3l8gXE
+272,OPERATIONAL,"37 Hudson Yards, New York, NY 10001, United States",The Tavern by WS,ChIJFXOORbRZwokRPJ_rX5z9lCs
+273,OPERATIONAL,"25 Clinton St, New York, NY 10002, United States",Ivan Ramen,ChIJreEXi4FZwokR_ygs7wh2fTk
+274,CLOSED_PERMANENTLY,"99 Bank St, New York, NY 10014, United States",The Marrow,ChIJKSOCLJVZwokRy0ywjKcB4zo
+275,CLOSED_PERMANENTLY,"80 Wythe Ave, Brooklyn, NY 11249, United States",Reynard,ChIJ0bhWy0JZwokRIDecAcG_7N4
+276,CLOSED_PERMANENTLY,"369 7th Ave, Brooklyn, NY 11215, United States",Talde,ChIJpT3wUB1bwokRdugMnsLj16U
+277,OPERATIONAL,"23 Commerce St, New York, NY 10014, United States",Sushi Nakazawa,ChIJsw80F5NZwokRcDtxajLLOeA
+278,OPERATIONAL,"435 E 9th St, New York, NY 10009, United States",Dian Kitchen,ChIJt4Kbfp1ZwokRVs57bxd0gNQ
+279,CLOSED_PERMANENTLY,"132 4th Ave, New York, NY 10003, United States",Botequim,ChIJtcvvIplZwokRTYhLxshwkm0
+280,CLOSED_PERMANENTLY,"61 W 8th St, New York, NY 10011, United States",Neta,ChIJu-Kex5ZZwokR5MqMLCs8IBc
+281,CLOSED_TEMPORARILY,"172 Delancey St Store1, New York, NY 10002, United States",Niche,ChIJ6azpBXBZwokRWCfVgOpaj9g
+282,OPERATIONAL,"13 E 37th St, New York, NY 10016, United States",Café China 倾城,ChIJhXTKrQBZwokRDA7Vijnq1AE
+283,CLOSED_PERMANENTLY,"186 Franklin St, New York, NY 10013, United States",Kutsher's Tribeca,ChIJrbv4gPVZwokRWHJc4_cSnAA
+284,OPERATIONAL,"126 Spring St, New York, NY 10012, United States",Kendra Scott,ChIJEfxv8aBZwokROUqG_QFBZ-w
+285,CLOSED_PERMANENTLY,"15 W 18th St, New York, NY 10011, United States",Alison Eighteen,ChIJF9zJ46JZwokRemok6ApiYGY
+286,OPERATIONAL,"345 Park Ave S, New York, NY 10010, United States",Upland,ChIJWVD7FadZwokRs_pS6XY7VOU
+287,CLOSED_TEMPORARILY,"9 W 53rd St, New York, NY 10019, United States",The Modern,ChIJMW-gxPtYwokRzDlnsRgq9rA
+288,OPERATIONAL,"599 Johnson Ave, Brooklyn, NY 11237, United States",Mission,ChIJQwWBd3NfwokRv9bSxdUttXY
+289,OPERATIONAL,"98 E 53rd St, New York, NY 10022, United States",The Lobster Club,ChIJO3lUXPtYwokRHcU_YPcKvcY
+290,OPERATIONAL,"70 Pine St, New York, NY 10005, United States",Crown Shy,ChIJ__9LNBZawokREnkOiVx7ydc
+291,OPERATIONAL,"2103 Starling Ave, The Bronx, NY 10462, United States",Taqueria Tlaxcalli,ChIJG429Dbj0wokRC-lw92nRJEk
+292,CLOSED_TEMPORARILY,"42-35 Main St, Flushing, NY 11355, United States",Dumpling Galaxy,ChIJ-Z115RJgwokRE-fDSpTBBTg
+293,OPERATIONAL,"10 South St, New York, NY 10004, United States",Manhattan Ferry: Destination: Governors Island,ChIJldlelxRawokRmiTwMa-KPKg
+294,OPERATIONAL,"24 Minetta Ln, New York, NY 10012, United States",Da Toscano,ChIJIQZOb3ZZwokRyF8ODmJo4so
+295,OPERATIONAL,"1 Central Park West, New York, NY 10023, United States",Nougatine at Jean-Georges,ChIJh5JzbfZYwokRzeF2GgGYd2Y
+296,CLOSED_PERMANENTLY,"312 Graham Ave, Brooklyn, NY 11211, United States",Gwynnett St,ChIJewlh5VZZwokRf55voUi53No
+297,CLOSED_PERMANENTLY,"99 Bank St, New York, NY 10014, United States",Bistro Pierre Lapin,ChIJ31l2L5VZwokRPqBKWOn8J5g
+298,OPERATIONAL,"68 W 3rd St, New York, NY 10012, United States",Spicy Moon Vegan Szechuan,ChIJZRP3DW9ZwokR6NnJ9PaMZxI
+299,OPERATIONAL,"94 Chambers St, New York, NY 10007, United States",Racines NY,ChIJkfkvTx9awokRJuJPcg17cPw
+300,OPERATIONAL,"976 Madison Ave, New York, NY 10075, United States",Kappo Masa,ChIJ9w07X5RYwokR5eolQAZ49C4
+301,CLOSED_TEMPORARILY,"268 Clinton St, Brooklyn, NY 11201, United States",La Vara,ChIJVT21BE9awokR_TVyGHmHvtU
+302,OPERATIONAL,"30 W 22nd St, New York, NY 10010, United States",Jac Elan,ChIJn_Tkf6RZwokR0sTbuGSQGaI
+303,OPERATIONAL,"51 Grove St, New York, NY 10014, United States",Via Carota,ChIJr7FOf5NZwokRu3CDYtzVmuQ
+304,CLOSED_PERMANENTLY,"120 E 28th St, New York, NY 10016, United States",o ya,ChIJh38-gKdZwokR6w8UWXtmCNc
+305,CLOSED_PERMANENTLY,"282 Bowery, New York, NY 10012, United States",Cherche Midi,ChIJpzIwwPpYwokRPAKAx9TVHrY
+306,CLOSED_PERMANENTLY,"500 Jersey Ave, Jersey City, NJ 07302, United States",Thirty Acres,ChIJpXO3_bNQwokR4eozhGWHAWc
+307,OPERATIONAL,"103 Mott St, New York, NY 10013, United States",Royal Seafood,ChIJf5eZgSdawokRMFzwX4PqajU
+308,CLOSED_PERMANENTLY,"84 E 4th St, New York, NY 10003, United States",Calliope,ChIJMZVBsoRZwokR0Wlwrvzny_k
+309,OPERATIONAL,"218 Lafayette St, New York, NY 10012, United States",Nicoletta,ChIJ1fd4a6pZwokR4lm1oqV3rrs
+310,OPERATIONAL,"536 E 5th St, New York, NY 10009, United States",Tuome,ChIJU7iTdXhZwokR2n5XFHPVdAY
+311,OPERATIONAL,"255 Vesey St, New York, NY 10282, United States",Blue Smoke,ChIJ9-FOdxtawokRqsxMeFMTGSo
+312,OPERATIONAL,"23 E 74th St, New York, NY 10021, United States",Caravaggio,ChIJ9aRJopRYwokRTTPRXTCYgLE
+313,OPERATIONAL,"437 5th Ave, New York, NY 10016, United States",Lamar,ChIJJQmHWydawokRs657MJPoODM
+314,CLOSED_PERMANENTLY,"284 3rd Ave, Brooklyn, NY 11215, United States",The PINES,ChIJrfOgnlVawokRx7lZaTmKX-w
+315,CLOSED_TEMPORARILY,"21 W 52nd St, New York, NY 10019, United States",21 Club,ChIJpZepXflYwokRNuSe6xAwprw
+316,OPERATIONAL,"317 W 12th St, New York, NY 10014, United States",Bar Bolonat,ChIJt19IT5VZwokRQOIjZPuswBM
+317,CLOSED_TEMPORARILY,"36 W 26th St, New York, NY 10010, United States",Hanjan,ChIJTUF2t6VZwokRy5cs0pSuj74
+318,OPERATIONAL,"104 2nd Ave, New York, NY 10003, United States",Madame Vo BBQ,ChIJ7TJpZuRZwokR82Xfo6R5hIA
+319,OPERATIONAL,"86 Allen St, New York, NY 10002, United States",Dirt Candy,ChIJBXlte51ZwokRXzXtdaBG9xM
+320,OPERATIONAL,"75 Washington Pl, New York, NY 10011, United States",Blue Hill,ChIJi9BURJFZwokRDcqvIgxdXds
+321,CLOSED_PERMANENTLY,"364 Atlantic Ave, Brooklyn, NY 11217, United States",KRESCENDO,ChIJQ0Hjm01awokR6VwedmudFXU
+322,CLOSED_TEMPORARILY,"257 6th Ave, New York, NY 10014, United States",El Toro Blanco,ChIJaeGOb5JZwokRllGi6Cdj6UQ
+323,OPERATIONAL,"18 Greenwich Ave, New York, NY 10011, United States",Rosemary's,ChIJCW5gj5ZZwokRtfK4UZxkcr4
+324,CLOSED_TEMPORARILY,"35 E 21st St, New York, NY 10010, United States",Cosme,ChIJT-gYZKFZwokR7O8LLYuYMjU
+325,OPERATIONAL,"285 W 12th St, New York, NY 10014, United States",The Beatrice Inn,ChIJy0l_epVZwokR4tN_s6EzlWY
+326,OPERATIONAL,"157 Chrystie St, New York, NY 10002, United States",Famous Sammy's,ChIJ4RoRQYZZwokRqU9VYajdwLA
+327,OPERATIONAL,"E 23rd St and Madison Avenue Madison Square Park, New York, NY 10010, United States",Shake Shack,ChIJz1idlLxYwokRwl1Twi2KrIQ
+328,CLOSED_PERMANENTLY,"461 W 23rd St, New York, NY 10011, United States",Barchetta,ChIJiSvO0rlZwokRSFEYm8Wdykc
+329,OPERATIONAL,"1149 1st Avenue, New York, NY 10065, United States",Moti Mahal Delux,ChIJA3C4DuhYwokR2UT5yg9AZR0
+330,CLOSED_PERMANENTLY,"1032 Lexington Ave, New York, NY 10021, United States",Lexington Club,ChIJ_SXczepYwokRH2OEDzF41so
+331,OPERATIONAL,"155 W 51st St, New York, NY 10019, United States",Le Bernardin,ChIJVSKXkPhYwokRVgXdrRfFxh0
+332,CLOSED_PERMANENTLY,"151 E 58th St, New York, NY 10022, United States",Le Cirque,ChIJ3zcwbPxYwokRplnnKw1fKbs
+333,CLOSED_PERMANENTLY,"311 W 43rd St, New York, NY 10036, United States",Hakkasan New York,ChIJP_pgdFNYwokRMY0bfj249WE
+334,OPERATIONAL,"2 Harrison St, New York, NY 10013, United States",Jungsik,ChIJpSTN0R9awokRI29rK_SfbeA
+335,CLOSED_PERMANENTLY,"283 W 12th St, New York, NY 10014, United States",Blenheim,ChIJ4dqYcJVZwokR_j65bGINb2Y
+336,CLOSED_PERMANENTLY,"183 W 10th St, New York, NY 10014, United States",Bar Sardine,ChIJ9azGZ5RZwokRKkfKjaYGszg
+337,CLOSED_PERMANENTLY,"142 W 10th St, New York, NY 10014, United States",Louro,ChIJy5YwJ5RZwokR_cR8wRSAlhs
+338,OPERATIONAL,"325 W 57th St, New York, NY 10019, United States",ABA Turkish Restaurant,ChIJI7O0Y1hYwokRt_SnNTsnqKE
+339,OPERATIONAL,"239 5th Ave, Brooklyn, NY 11215, United States",Haenyeo,ChIJVVXpcQBbwokRtKzSlyOoW1Y
+340,CLOSED_PERMANENTLY,"160 Havemeyer St #5, Brooklyn, NY 11211, United States",Semilla,ChIJlY3sIuBbwokRjPPKyOXw6-0
+341,CLOSED_TEMPORARILY,"20 Hudson Yards, New York, NY 10001, United States",Kāwi,ChIJDZ33EA1ZwokRriNiX5sqAwg
+342,CLOSED_TEMPORARILY,"8 Extra Pl, New York, NY 10003, United States",Bar at Momofuku Ko,ChIJ52_NDDlZwokRpqXExgV5Cy8
+343,CLOSED_PERMANENTLY,"135 N 5th St, Brooklyn, NY 11249, United States",Delaware and Hudson,ChIJwW62AF5ZwokRQGPb9WHfArA
+344,CLOSED_PERMANENTLY,"44 W 29th St, New York, NY 10001, United States",Ferris,ChIJAQAsWK9ZwokR57OChi6oNxI
+345,OPERATIONAL,"127 Orchard St, New York, NY 10002, United States",Russ & Daughters Cafe,ChIJ53yq2oZZwokRqIHSP4qZT3o
+346,OPERATIONAL,"85 10th Ave, New York, NY 10011, United States",Del Posto,ChIJcVkmssBZwokRIpIrjLflCwE
+347,OPERATIONAL,"701 7th Ave 11th floor, New York, NY 10036, United States",701West,ChIJH2n961VYwokRs_E7sLLvdNc
+348,OPERATIONAL,"Entrance on Rutgers, 26 Canal St, New York, NY 10002, United States",Manzanilla Hair Studio,ChIJSenNfB1bwokRf9MgWkMMdaQ
+349,OPERATIONAL,"201 1st Avenue, New York, NY 10003, United States",Jeepney,ChIJe2Or_Z1ZwokRjmxH6BRtkng
+350,OPERATIONAL,"29 E 29th St, New York, NY 10016, United States",Marta,ChIJK0fVw6dZwokRZuF-vAUC4II
+351,OPERATIONAL,"107 1st Avenue, New York, NY 10003, United States",Huertas,ChIJ0bez3pxZwokR1q3LfQLrRDU
+352,OPERATIONAL,"125 E 39th St, New York, NY 10016, United States",Kajitsu,ChIJ74OVUQFZwokRbrVbu_KUlgo
+353,CLOSED_PERMANENTLY,"158 8th Ave, New York, NY 10011, United States",Montmartre,ChIJ7YCJp75ZwokRKqW3TfnNLhs
+354,CLOSED_PERMANENTLY,"17 W 26th St, New York, NY 10010, United States",Maysville,ChIJbafTz6VZwokRMOYaspUwj28
+355,OPERATIONAL,"717 5th Ave, New York, NY 10022, United States",Armani/Ristorante 5th Avenue,ChIJeSZBWPpYwokR8YKIpFMSEd0
+356,OPERATIONAL,"181 Thompson St, New York, NY 10012, United States",Carbone,ChIJmSvG_ZFZwokRTOFeiLXzkmA
+357,OPERATIONAL,"47 S 5th St, Brooklyn, NY 11249, United States",Aska,ChIJUwatTl1ZwokRUDXxYoFa-hk
+358,CLOSED_TEMPORARILY,"234 E 4th St, New York, NY 10009, United States",Van Da,ChIJkdfww09ZwokRyOEXAqIS5RU
+359,CLOSED_PERMANENTLY,"117 Columbia St, Brooklyn, NY 11231, United States",Pok Pok NY,ChIJycIXvVxawokRRHMvIHVBMPs
+360,OPERATIONAL,"529 Hudson St, New York, NY 10014, United States",RedFarm,ChIJx3LV_bWAj4ARlW17cSsmwp4
+361,CLOSED_PERMANENTLY,"157 2nd Ave, New York, NY 10003, United States",Biang!,ChIJZRuFQJxZwokRijCkgsAl7WY
+362,CLOSED_PERMANENTLY,"24 E 21st St, New York, NY 10010, United States",Almayass,ChIJCX6t2KNZwokRbJZdnseGjrY
+363,CLOSED_TEMPORARILY,"180 Ludlow St, New York, NY 10002, United States",Dirty French,ChIJrXEiw4NZwokRxp0-JU8sJ-I
+364,OPERATIONAL,"239 W Broadway, New York, NY 10013, United States",Bâtard,ChIJc1uHuopZwokReG0qC_lrCd8
