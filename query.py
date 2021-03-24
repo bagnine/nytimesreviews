@@ -287,7 +287,7 @@ def review_url_names(api_key, query, n_pages_min, n_pages_max, **kwargs):
 
 def remove_stopwords(column, stopwords):
     ''''''
-    column.apply(lambda x: [item for item in x if item not in stopwords])
+    column = column.apply(lambda x: ' '.join([item for item in x.split(' ') if item not in stopwords]))
     return column
 
 def get_stars(list_of_urls):
