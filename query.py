@@ -308,3 +308,19 @@ def drop_rows(stopwords, dataframe, dataframe_column):
     for i in stopwords:
         dataframe = dataframe[~dataframe[dataframe_column].str.contains(i)]
     return dataframe
+
+def borough_column(address_column):
+    ''''''
+    borough = []
+    for i in address_column:
+        borough.append(i.split(', NY')[0].split(' ')[-1])
+    for i in range(len(borough)):
+        if borough[i] in ('York', 'States'):
+            borough[i] = 'Manhattan'
+        elif borough[i] in ('Maspeth', 'Ridgewood', 'Astoria', 'Flushing', 
+                            'City', 'Hill', 'Broadway', 'Point', 'Park'):    
+            borough[i] = 'Queens'
+        elif borough[i] == 'Island':
+            borough[i] = 'Staten Island'
+
+    return borough
